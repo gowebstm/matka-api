@@ -27,5 +27,17 @@ To use the API, follow these simple steps:
 
 ### Example API Request
 
-```bash
+
 https://api.gowebs.com/matka?apikey=YOUR_API_KEY
+
+## Documentation
+Full documentation is available here (Add a link to your documentation).
+
+## Contributing
+We welcome contributions! Please fork this repository, make your changes, and submit a pull request.
+
+## Support
+For any questions or support, please contact us at gowebs2020@gmail.com.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
