@@ -1,43 +1,53 @@
-# Matka API by Gowebs
+# Welcome to Matka API
 
-Welcome to the **Matka API** by **Gowebs**! Our API provides real-time data for popular games like Matka, Starline, Disawar, Teer, and NPL.
+Matka API provides a reliable and automated solution for fetching real-time results for various Satta Matka games. Our API is designed to deliver accurate and fast results for multiple popular games.
 
 ## Features
 
-- **Matka API**: Get live Matka game data, results, and schedules.
-- **Starline API**: Access real-time Starline game data and results.
-- **Disawar API**: Fetch up-to-date Disawar game results.
-- **Teer API**: Retrieve accurate Teer results from different locations.
-- **NPL API**: Obtain full support for NPL game data and results.
+- **Satta Matka Auto Result API**: Automatically fetch the latest Satta Matka results.
+- **Starline Auto Result API**: Get real-time results for Starline games.
+- **Satta like Disawar Auto Result API**: Access results for games like Disawar automatically.
+- **Teer Game Auto Result API**: Retrieve the latest Teer game results.
 
-## Why Use Our API?
-
-- **Free to Use**: The API is completely free for developers.
-- **Real-Time Data**: Get accurate and updated game data instantly.
-- **Easy Integration**: Simple and well-documented API for easy integration.
-- **Developer Support**: Our team is here to help with any questions or issues.
+> **Note:** This SDK is currently only for the Matka Auto Result API. We will be adding support for other games soon.
 
 ## Getting Started
 
-To use the API, follow these simple steps:
+To set up the Matka API, follow these steps:
 
-1. **Sign Up**: Register for an API key at our website.
-2. **Get Your API Key**: Once registered, you'll receive your unique API key.
-3. **Make a Request**: Use the API key in your requests to fetch game data.
+### Step 1: Download and Upload
 
-### Example API Request
+1. Download the files from our repository.
+2. Upload the downloaded files to your server in the `{public_html/matka_api}` directory.
+3. **Important:** Do not modify the folder structure.
 
+### Step 2: Purchase the API
 
-https://api.gowebs.com/matka?apikey=YOUR_API_KEY
+1. Visit our website at [matkaapi.com](https://matkaapi.com/) to purchase an API key.
+2. After a successful purchase, run the following URL in your browser:  
+   `yourwebsite.com/matka_api/index.php`
 
-## Documentation
-Full documentation is available here (Add a link to your documentation).
+### Step 3: Configure the API
 
-## Contributing
-We welcome contributions! Please fork this repository, make your changes, and submit a pull request.
+1. Enter your **API key** and **domain key**.
+2. Provide the necessary **database connection** details.
+3. Click "Submit" to automatically update the required tables in your database.
+
+> **Important:** Once the setup is complete, delete the `index.php` file from the `matka_api` directory for security reasons.
+
+> **Congratulations!** You have successfully set up the Matka API.
 
 ## Support
-For any questions or support, please contact us at gowebs2020@gmail.com.
+
+If you need help or have any questions, please feel free to contact us:
+
+- **Phone:** [8585814444](tel:+8585814444)
+- **WhatsApp:** [8585858844](https://wa.me/8585858844)
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to this project, please fork the repository, create a new branch, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
