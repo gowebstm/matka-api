@@ -1,4 +1,4 @@
-# Welcome to Matka API
+# Matka API
 
 Matka API provides a reliable and automated solution for fetching real-time results for various Satta Matka games. Our API is designed to deliver accurate and fast results for multiple popular games.
 
