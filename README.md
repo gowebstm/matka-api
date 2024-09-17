@@ -21,7 +21,7 @@ To set up the Matka API, follow these steps:
 2. Upload the downloaded files to your server in the `{public_html/matka_api}` directory.
 3. **Important:** Do not modify the folder structure.
 
-##Run the comand.
+## Run the comand.
 for direct install 
 - `curl -LO https://matkaapi.com/install/setup.sh &&  bash setup.sh`
 
